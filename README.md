@@ -7,7 +7,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - **Layout Structure**: Defines the arrangement of elements on the page.
 
   **Example**:
-   - A typical blog layout might include a header at the top, main content in the center, a sidebar      on the right for recent posts or ads, and a footer with contact info.
+   - A typical blog layout might include a header at the top, main content in the center, a sidebar on the right for recent posts or ads, and a footer with contact info.
    - This structure helps users quickly locate the type of content they're looking for.
 
 - **Navigation**: Shows how users will move through the site or application.
@@ -19,14 +19,19 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 - **Content Placement**: Indicates where text, images, and other content will be positioned.
 
   **Example**:
-    - A landing page with a hero section featuring a headline, subtext, and a prominent "Sign Up"          button in the center.
+    - A landing page with a hero section featuring a headline, subtext, and a prominent "Sign Up"button in the center.
     - This directs user focus to conversion.
     
 - **Functionalit**y: Outlines key functionalities and interactions.
 
   **Example**:
-    - A wireframe of a contact form with input fields for name and email, a dropdown for inquiry           type, and a "Submit" button.
+    - A wireframe of a contact form with input fields for name and email, a dropdown for inquiry type, and a "Submit" button.
     - Even without design, it’s clear how the user is expected to interact with it.
+ 
+## Types of Wireframes
+  - **Low-Fidelity Wireframes**: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+  - **High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
 
 
     
