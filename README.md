@@ -52,6 +52,59 @@ It:
 - Simulates user flow through multiple screens like Splash, Sign In, Join, Home, Detail, Reservation.
 - Represents a near-complete visual design of the final product.
 
+### Wireframing Tools
+#### Popular Wireframing Tools
+  - Figma (Highly Recommended)
+  - Adobe XD
+  - Sketch
+  - Balsamiq
+  - Axure RP
+  - Wireframe.cc
+  - Lucidchart
+
+### Overview of Figma’s key features 
+1. Cloud-Based Design
+    - Works in the browser or desktop app
+    - No installation or manual updates needed
+    - Files are auto-saved and accessible anywhere
+   
+2. Real-Time Collaboration
+    - Multiple users can design together in real time
+    - Live cursors show who’s working on what
+    - Commenting and feedback are built-in
+3. Vector-Based Interface
+    - Create scalable, pixel-perfect designs
+    - Powerful pen tool for custom shapes and paths 
+4. Components & Variants
+    - Build reusable elements like buttons, headers, cards
+    - Use variants for different states (e.g., hover, active)
+    - Speeds up design and ensures consistency
+5. Prototyping Tools
+    - Link frames to simulate navigation and user flows
+    - Add transitions, animations, and interactions
+    - Preview and test designs directly in Figma
+6. Auto Layout
+    - Automatically adjusts spacing, alignment, and resizing
+    - Great for building responsive components and layouts
+    
+7. Design Systems Support
+    - Create shared styles for text, colors, and effects
+    - Publish design libraries across teams
+8. Plugins and Integrations
+    - Use plugins for icons, stock photos, accessibility checks, etc.
+    - Integrates with tools like Slack, JIRA, and FigJam
+
+### Why Figma is Useful for Wireframing
+   - **Beginner-friendly**: Minimal learning curve compared to tools like Axure or Sketch.
+   - **No installations needed**: Fully accessible in the browser, making it ideal for remote work and collaboration.
+   - **Free plan available**: Great for students, freelancers, or small teams.
+   - **Easy transition to high-fidelity design**: Wireframes created in Figma can easily be upgraded to polished prototypes without switching tools.
+
+
+
+    
+
+   
 
 
     
