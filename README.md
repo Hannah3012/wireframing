@@ -110,6 +110,23 @@ Wireframing offers major benefits in software development by providing a clear, 
 - **Saves Time and Reduces Rework**: Catching layout or feature issues early avoids costly fixes during development.
 - **Supports Agile Development**: Wireframes are quick to update, making them perfect for fast-paced iterations.
 
+## Wireframing in Practice 
+
+#### Scenario:
+A small team at a startup was building a scheduling app for tutors and students. During the wireframing phase, the designer mocked up a screen where students could book sessions. The initial wireframe had a calendar view, a list of available time slots, and a “Book Now” button at the bottom.
+
+- **Usability Issue Found**:
+When the team reviewed the wireframe with a few tutors, one tutor pointed out that the “Book Now” button appeared even when no time slot was selected. This could lead users to try booking without choosing a time, which would cause errors or frustration.
+
+- **How It Was Fixed**:
+The team adjusted the wireframe to hide the “Book Now” button until a time slot was selected. They also added a small message prompting users to select a time first.
+
+- **Impact on Final Product**:
+This small fix prevented confusion, reduced support requests, and made the booking process feel more natural. Catching the issue early also saved time that would’ve been spent fixing it during development or after launch.
+
+#### Conclusion:
+Wireframing helped the team spot a simple but important usability problem before any code was written. It made communication with users and developers easier, and ultimately led to a cleaner, more user-friendly experience.
+
 
 
  
