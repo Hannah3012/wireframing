@@ -29,8 +29,28 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
     - Even without design, it’s clear how the user is expected to interact with it.
  
 ## Types of Wireframes
-  - **Low-Fidelity Wireframes**: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
-  - **High-Fidelity Wireframes**: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+  - ### Low-Fidelity Wireframes:
+    Simple sketches or basic digital layouts focusing on overall structure and functionality without     detailed design.
+
+    **They are typically used**:
+     - Early in the design process (concept development)
+     - During team brainstorming
+     - When validating layout and flow
+
+  - ### High-Fidelity Wireframes:
+    More detailed and refined versions, often closer to the final design, including more specific        layout and design elements.
+
+    **They are typically used**:
+     - Later in the design process (refinement and pre-development stages)
+     - During usability testing
+     - When handing off designs to developers
+   
+#### The provided wire frame is type of **High-Fidelity Wireframe**.
+It: 
+- Includes realistic UI elements like buttons, icons, images, and text.
+- Shows actual layout, spacing, and colors.
+- Simulates user flow through multiple screens like Splash, Sign In, Join, Home, Detail, Reservation.
+- Represents a near-complete visual design of the final product.
 
 
 
