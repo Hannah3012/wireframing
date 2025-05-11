@@ -117,9 +117,9 @@ This wireframe:
 
  - Clarifies the vision so everyone agrees on the page structure before design or coding begins.
  - Guides the design by helping the UI designer decide where each element should go.
-- Improves communication by allowing the developer, designer, and product manager to review it together and suggest changes easily.
-- Saves time when a stakeholder notices that a gift card input field is missing—this gets fixed in minutes.
-- Supports Agile development by allowing the team to quickly revise the wireframe after feedback in the sprint review.   
+ - Improves communication by allowing the developer, designer, and product manager to review it together and suggest changes easily.
+ - Saves time when a stakeholder notices that a gift card input field is missing—this gets fixed in minutes.
+ - Supports Agile development by allowing the team to quickly revise the wireframe after feedback in the sprint review.   
     
 ## Wireframing in Practice 
 
